@@ -65,13 +65,6 @@ Before analysis, the dataset was cleaned using Power BI (Power Query):
 
 ---
 
-## 📚 Data Source
-UCI Machine Learning Repository  
-Chen, D., Sain, S. L., & Guo, K. (2012)  
-*Data mining for the online retail industry: A case study of RFM model-based customer segmentation.*
-
----
-
 ## ⚠️ Disclaimer
 This project was completed as part of a **virtual internship simulation** on Forage.  
 All analysis and insights are for **educational purposes only** and do not represent real Tata business data or decisions.
